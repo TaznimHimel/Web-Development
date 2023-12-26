@@ -1,0 +1,23 @@
+body{
+background-color: lightblue;
+}
+
+p{
+color: yellow;
+}
+
+h2{
+color: red;
+}
+#sp{
+    color: blue;
+}
+.yellow{
+    color: yellowgreen;
+    border: solid 2px;
+    background-color: antiquewhite;
+}
+
+h2,h3,p{
+    
+}

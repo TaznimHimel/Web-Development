@@ -1,0 +1,20 @@
+p{
+    color: brown;
+    
+}
+#secondptag{
+    font-size: 15px;
+    margin-top: -20px;
+    padding-left: 38%;
+    text-align: left;
+    color: blue;
+    }
+.container{
+    width: 96%;
+    height: auto;
+    background-color:#f4f7fa ;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,.5);
+    overflow: hidden;
+    text-align: center;
+    }

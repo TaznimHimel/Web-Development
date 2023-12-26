@@ -1,0 +1,13 @@
+body{
+    background: url(/Images/image1.jpg);
+    background-attachment: fixed;
+    background-size:1600px,800px;
+    background-repeat: no-repeat;
+}
+
+h2{
+    display: inline;
+    color: aquamarine;
+    border: 2px solid white;
+    
+}

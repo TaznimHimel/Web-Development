@@ -1,0 +1,12 @@
+body{
+    background: url(/Images/image1.jpg);
+    background-size: 1550px,750px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h2{
+    color: aquamarine;
+}
+p{
+    color: blanchedalmond;
+}
