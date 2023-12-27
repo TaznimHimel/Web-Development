@@ -1,0 +1,64 @@
+.header a{
+    border: 3px solid lightblue;
+    display: inline-block;
+    color: aquamarine;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 40px;
+    padding: 15px;
+    text-shadow: 4px 4px black ;
+}
+
+.navbar{ 
+
+    max-width: 500px;
+    border: 15px solid green;
+    background-color: bisque;
+    padding: 15px;
+    margin: auto;
+    outline: 15px solid red;
+    /* CSS Font */
+    font-family: 'Carattere', cursive;
+}
+/* CSS Text */
+.navbar p{
+    text-indent:32px;
+    text-align: justify;
+    text-decoration: underline;
+    letter-spacing: 2px;
+
+}
+
+/* CSS link */
+#innerLink{
+    display: block;
+    width: 150px;
+    margin: auto;
+    padding: 25px;
+    background-color: lightcoral;
+    border-radius: 10px 10px;
+    text-decoration: none;
+}
+#innerLink:link{
+    color:rgb(146, 135, 31);
+    background-color:rgb(8, 87, 8);
+
+}
+
+#innerLink:visited{
+    color:rgb(216, 124, 38);
+    background-color:rgb(153, 192, 14);
+
+}
+
+#innerLink:hover{
+    color:lemonchiffon;
+    background-color:lightgreen;
+
+}
+#innerLink:checked{
+    color:rgb(247, 240, 240);
+    background-color:rgb(248, 5, 5);
+
+}
