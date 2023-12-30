@@ -21,6 +21,9 @@
 /* This is Display */
 .myDisplay{
     padding: 25px;
+    background-color: aqua;
     border: 3px solid red;
     display: inline;
+    position: sticky;
+    top: 0%;
 }
