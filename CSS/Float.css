@@ -1,0 +1,13 @@
+.float{
+    border: 3px solid black;
+    overflow: auto;
+
+}
+
+.float p{
+    text-align: center;
+}
+
+#myImage{
+    float: right;
+}
