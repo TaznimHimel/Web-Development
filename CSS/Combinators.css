@@ -1,0 +1,23 @@
+p {
+    color: blueviolet;
+}
+
+div p{
+    font-weight: bolder;
+
+}
+
+div > p{
+    color: brown;
+}
+
+div ~ p{
+    color: lightcoral;
+}
+
+section+p{
+    color: green;
+}
+section~p{
+    color: green;
+}
